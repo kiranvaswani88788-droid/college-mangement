@@ -8,5 +8,5 @@ import java.util.List;
 
 @Repository
 public interface CollegeRepository extends JpaRepository<College, Long> {
-
+ /// fdsfds
 }
